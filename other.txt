@@ -1,7 +1,7 @@
 This is my second test file.
 
-The first keyword is Bananas.
+The first keyword is Coconut.
 
-The second keyword is Bananas.
+The second keyword is Coconut.
 
-The third keyword is Bananas.
+The third keyword is Coconut.
